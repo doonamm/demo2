@@ -15,8 +15,7 @@ body{
 .scene{
     width: 400px;
     height: 400px;
-    border: 1px solid #000;
-    perspective: 600px;
+    perspective: 750px;
 
 }
 
